@@ -1,23 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=360&text=Naveen%20K%20S&fontSize=78&fontColor=EAF6FF&animation=fadeIn&fontAlignY=36&desc=Advanced%20Associate%20Software%20Engineer%20%40%20Accenture&descAlignY=56&descSize=24&stroke=00F7FF&strokeWidth=1&theme=dark"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=380&text=Naveen%20K%20S&fontSize=82&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Advanced%20Associate%20Software%20Engineer%20%40%20Accenture&descAlignY=58&descSize=24&color=0:050816,20:0B1026,40:111C44,60:1A2B6D,80:00C9FF,100:92FE9D"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=Java+Full+Stack+Developer+☕;Spring+Boot+%7C+Microservices+🚀;Backend+Engineering+Enthusiast+⚡;Building+Scalable+Applications+🔥;Code.+Design.+Innovate.+Repeat.+💻"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=100&lines=Java+Full+Stack+Developer+☕;Spring+Boot+%7C+Microservices+🚀;Backend+Engineering+Enthusiast+⚡;Building+Scalable+Applications+🔥;Code.+Create.+Innovate.+Repeat.+💻"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Advanced_Associate_Software_Engineer-0A0A0A?style=for-the-badge&logo=accenture&logoColor=A100FF"/>
-<img src="https://img.shields.io/badge/Java-Developer-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=FF6B00"/>
-<img src="https://img.shields.io/badge/Spring_Boot-0A0A0A?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/Microservices-0A0A0A?style=for-the-badge&logo=docker&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Advanced_Associate_Software_Engineer-090909?style=for-the-badge&logo=accenture&logoColor=A100FF"/>
+<img src="https://img.shields.io/badge/Java-Developer-090909?style=for-the-badge&logo=openjdk&logoColor=FF7B00"/>
+<img src="https://img.shields.io/badge/Spring_Boot-090909?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Microservices-090909?style=for-the-badge&logo=docker&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Open_Source-Contributor-090909?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/Nksnaveenks?style=for-the-badge&labelColor=0A0A0A&color=111111"/>
-<img src="https://img.shields.io/github/stars/Nksnaveenks?style=for-the-badge&labelColor=0A0A0A&color=111111"/>
-<img src="https://komarev.com/ghpvc/?username=Nksnaveenks&style=for-the-badge&labelColor=0A0A0A&color=111111"/>
+<img src="https://img.shields.io/github/followers/Nksnaveenks?style=for-the-badge&label=Followers&labelColor=0A0A0A&color=111827"/>
+<img src="https://img.shields.io/github/stars/Nksnaveenks?style=for-the-badge&label=Stars&labelColor=0A0A0A&color=111827"/>
+<img src="https://komarev.com/ghpvc/?username=Nksnaveenks&style=for-the-badge&label=Profile+Views&labelColor=0A0A0A&color=111827"/>
 
 <br><br>
 
