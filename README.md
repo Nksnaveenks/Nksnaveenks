@@ -1,23 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=380&text=Naveen%20K%20S&fontSize=70&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Associate%20Software%20Engineer%20%40%20Accenture&descAlignY=55&descSize=24&color=gradient&customColorList=6,11,20,24,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&text=Naveen%20K%20S&fontSize=70&fontColor=ffffff&stroke=00F7FF&strokeWidth=2&animation=fadeIn&fontAlignY=40&desc=Java%20Developer%20☕%20|%20Spring%20Boot%20🚀%20|%20Microservices%20⚡&descAlignY=60&descSize=24&color=0:0f0c29,50:302b63,100:24243e"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Java+Full+Stack+Developer+☕;Spring+Boot+%7C+Microservices+🚀;Backend+Engineering+Enthusiast+⚡;Always+Learning+New+Technologies+🔥"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=30&duration=2500&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=Associate+Software+Engineer+%40+Accenture;Backend+Engineering+Enthusiast;Java+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Applications+🚀"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Java-Developer-red?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-Boot-success?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microservices-Architecture-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Accenture-Employee-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-Developer-ff512f?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-FF00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Engineer-blueviolet?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/Nksnaveenks?style=for-the-badge&color=00c2ff"/>
-<img src="https://img.shields.io/github/stars/Nksnaveenks?style=for-the-badge&color=yellow"/>
-<img src="https://komarev.com/ghpvc/?username=Nksnaveenks&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/Nksnaveenks?style=for-the-badge&color=00F7FF"/>
+<img src="https://img.shields.io/github/stars/Nksnaveenks?style=for-the-badge&color=ff00ff"/>
+<img src="https://komarev.com/ghpvc/?username=Nksnaveenks&style=for-the-badge&color=orange"/>
 
 </div>
 
@@ -25,23 +25,21 @@
 
 <div align="center">
 
-# 🌌 Welcome To My Digital Space 🌌
-
-<img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-7401-4e30-8c8e-6999d8e3c31f.gif" width="100%">
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%"/>
 
 </div>
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-<img align="right" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 🎓 Computer Science Graduate  
 💼 Associate Software Engineer at Accenture  
 ☕ Passionate Java Developer  
 🚀 Learning Spring Boot & Microservices  
-📚 DSA & Problem Solving Enthusiast  
-⚡ Backend Engineering Lover  
-🔥 Exploring Cloud, Docker & AWS  
+📚 DSA & Competitive Programming Enthusiast  
+⚡ Love Backend Engineering & APIs  
+🔥 Exploring Docker, AWS & Cloud Technologies  
 🎯 Goal: Become Enterprise Java Architect  
 
 <br><br><br>
@@ -68,9 +66,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2f7a5d3f-8cb8-4cb8-b2f1-6e4b58bba8c7.gif" width="100%">
-
-# 💻 Tech Arsenal
+# ⚔️ Tech Stack
 
 <div align="center">
 
@@ -80,7 +76,7 @@
 
 <br><br>
 
-### ⚙️ Frameworks & Databases
+### ⚙️ Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=spring,mysql,mongodb,hibernate,nodejs"/>
 
@@ -88,22 +84,22 @@
 
 ### ☁️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,docker,firebase"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,firebase"/>
 
 </div>
 
 ---
 
-# 🧠 Currently Learning
+# 🚀 Currently Exploring
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-FF00FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/System_Design-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CI/CD-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CI/CD-orange?style=for-the-badge"/>
 
 </div>
 
@@ -115,26 +111,24 @@
 
 | 🚀 Project | 💡 Description | ⚡ Tech |
 |---|---|---|
-| Employee Management System | Full CRUD employee management | Spring Boot, MySQL |
-| E-Commerce Backend API | REST APIs with JWT security | Spring Boot |
-| Student Management System | Student database management | Java, MySQL |
-| Banking Application | Banking operations system | Java |
-| Portfolio Website | Personal developer portfolio | HTML, CSS, JS |
-| Microservices Project | API Gateway & Eureka setup | Spring Cloud |
+| Employee Management System | CRUD employee management system | Spring Boot, MySQL |
+| E-Commerce Backend API | JWT secured REST APIs | Spring Boot |
+| Banking Application | Banking operations management | Java |
+| Portfolio Website | Responsive developer portfolio | HTML, CSS, JS |
+| Student Management System | Student record management | Java, MySQL |
+| Microservices Project | API Gateway & Eureka Server | Spring Cloud |
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/216656971-9cfdb9ba-4d2d-4f5d-8f0e-54f9f8fcd0e5.gif" width="100%">
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nksnaveenks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nksnaveenks&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nksnaveenks&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nksnaveenks&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -142,7 +136,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nksnaveenks&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nksnaveenks&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -152,17 +146,17 @@
 
 <div align="center">
 
-[![Naveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nksnaveenks&theme=tokyo-night)](https://github.com/Nksnaveenks)
+[![Naveen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nksnaveenks&theme=react-dark)](https://github.com/Nksnaveenks)
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nksnaveenks&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nksnaveenks&theme=radical&no-frame=true&margin-w=15"/>
 
 </div>
 
@@ -172,18 +166,18 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Nksnaveenks/Nksnaveenks/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Nksnaveenks/Nksnaveenks/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# ☕ Java Learning Roadmap
+# ☕ Java Developer Roadmap
 
 <div align="center">
 
 ```mermaid
-graph LR
+graph TD
 A[Java Basics] --> B[OOPs]
 B --> C[Collections]
 C --> D[Exception Handling]
@@ -225,7 +219,7 @@ K --> L[AWS]
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -235,7 +229,7 @@ K --> L[AWS]
 
 ✅ Master Spring Boot  
 ✅ Learn Microservices Architecture  
-✅ Build Enterprise Level Applications  
+✅ Build Enterprise Applications  
 ✅ Learn Docker & AWS  
 ✅ Improve DSA Skills  
 ✅ Become Backend Specialist  
@@ -245,8 +239,8 @@ K --> L[AWS]
 
 <div align="center">
 
-# 💻 “Code. Create. Innovate. Repeat.”
+# ⚡ “Code. Debug. Deploy. Repeat.”
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
 
 </div>
