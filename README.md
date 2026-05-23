@@ -4,6 +4,11 @@
 
 <br>
 
+<!-- HI THERE SECTION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2500&pause=1200&color=FF61F6&center=true&vCenter=true&width=700&lines=👋+Hii+There!+I+am+Naveen+K+S;🚀+Welcome+to+My+GitHub+Profile"/>
+
+<br><br>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Java+Developer+☕;Spring+Boot+%7C+Microservices+🚀;Backend+Engineering+Enthusiast+⚡;Problem+Solver+💻;Building+Scalable+Applications+🔥"/>
 
 <br><br>
