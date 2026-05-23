@@ -1,17 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=320&color=0:0f2027,25:203a43,50:2c5364,75:1a2980,100:26d0ce&text=Naveen%20K%20S&fontSize=70&fontColor=ffffff&animation=blinking&fontAlignY=38&desc=Associate%20Software%20Engineer%20@%20Accenture%20🚀&descAlignY=60&descSize=24"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=300&color=0:283c86,100:45a247&text=Naveen%20K%20S&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Spring%20Boot%20%26%20Microservices&descAlignY=60&descSize=24"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer+☕;Spring+Boot+%7C+Microservices+🚀;Backend+Engineering+Enthusiast+⚡;Always+Learning+New+Technologies+🔥"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+🚀;Backend+Engineering+Enthusiast+⚡;Building+Scalable+Systems+🌐;Always+Learning+New+Technologies+📚"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-Boot-success?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microservices-Architecture-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-Engineer-00c2ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Accenture-Employee-00457C?style=for-the-badge"/>
 
 <br><br>
 
@@ -23,24 +23,17 @@
 
 ---
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216656965-39a4d4ef-9e72-41d0-b8b2-b7c62b1b1c0d.gif" width="100%">
-
-</div>
-
 # 👨‍💻 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="360" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"/>
 
 🎓 Computer Science Graduate  
 💼 Associate Software Engineer at Accenture  
-☕ Passionate Java Developer  
-🚀 Learning Spring Boot & Microservices  
-📚 DSA & Competitive Programming Enthusiast  
-⚡ Love Backend Engineering & APIs  
-🔥 Exploring Docker, AWS & Cloud Technologies  
-🎯 Goal: Become Enterprise Java Architect  
+☕ Java & Spring Boot Enthusiast  
+🚀 Building Microservices & REST APIs  
+📚 Passionate about Problem Solving & DSA  
+🔥 Exploring Docker, AWS & Cloud  
+🎯 Goal: Enterprise-level System Architect  
 
 <br><br><br>
 
@@ -231,46 +224,16 @@ Success Will Follow;
 
 ---
 
-# ☕ Java Developer Roadmap
+# ☕ Java Message Code
 
-<div align="center">
-
-```mermaid
-graph TD
-A[Java Basics] --> B[OOPs]
-B --> C[Collections]
-C --> D[Exception Handling]
-D --> E[JDBC]
-E --> F[Servlets]
-F --> G[Spring Core]
-G --> H[Spring Boot]
-H --> I[REST APIs]
-I --> J[Microservices]
-J --> K[Docker]
-K --> L[AWS]
+```java
+public class Motivation {
+    public static void main(String[] args) {
+        String message = "Keep coding, keep growing!";
+        System.out.println(message);
+    }
+}
 ```
-
-</div>
-
----
-
-# 🧠 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-
-<a href="https://hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/>
-</a>
-
-<a href="https://codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-black?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
@@ -290,6 +253,6 @@ K --> L[AWS]
 
 # ⚡ “Code. Build. Innovate. Repeat.”
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0f2027,25:203a43,50:2c5364,75:1a2980,100:26d0ce"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:283c86,100:45a247"/>
 
 </div>
