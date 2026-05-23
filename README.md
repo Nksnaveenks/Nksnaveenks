@@ -1,10 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=420&text=Hey%20There%20👋%20I'm%20Naveen%20K%20S&fontSize=64&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=Advanced%20Associate%20Software%20Engineer%20%40%20Accenture&descAlignY=56&descSize=24&color=0:050816,20:0B1026,40:111C44,60:1A2B6D,80:00C9FF,100:92FE9D"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=420&color=0:050816,20:0B1026,40:111C44,60:1A2B6D,80:00C9FF,100:92FE9D&text=%20&fontSize=0"/>
+
+<h1 align="center">
+  Hey There 👋
+</h1>
+
+<h1 align="center">
+  I'm <span style="color:#00F7FF;">Naveen K S</span>
+</h1>
+
+<h3 align="center">
+  ✨ Advanced Associate Software Engineer @ Accenture ✨
+</h3>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=100&lines=☕+Java+Full+Stack+Developer;🚀+Spring+Boot+%7C+Microservices;⚡+Backend+Engineering+Enthusiast;💻+Building+Scalable+Applications;🔥+Code.+Create.+Innovate.+Repeat."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=☕+Java+Full+Stack+Developer;🚀+Spring+Boot+%7C+Microservices;⚡+Backend+Engineering+Enthusiast;💻+Building+Scalable+Applications;🔥+Code.+Create.+Innovate.+Repeat."/>
 
 <br><br>
 
@@ -16,7 +28,6 @@
 <img src="https://img.shields.io/badge/Java-Developer-090909?style=for-the-badge&logo=openjdk&logoColor=FF7B00"/>
 <img src="https://img.shields.io/badge/Spring_Boot-090909?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
 <img src="https://img.shields.io/badge/Microservices-090909?style=for-the-badge&logo=docker&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Open_Source-Contributor-090909?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br><br>
 
