@@ -1,13 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=250&section=header&text=Naveen%20K%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Software%20Engineer%20@%20Accenture&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,25,30&text=Naveen%20K%20S&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Software%20Engineer%20%40%20Accenture%20%7C%20Spring%20Boot%20Developer%20%7C%20Microservices&descAlignY=58&descSize=22"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Naveen+K+S;Java+Developer+%7C+Spring+Boot+Developer;Microservices+Enthusiast;Full+Stack+Developer;Problem+Solver+%7C+DSA+Learner;Always+Building+and+Learning+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Java+Developer+☕;Spring+Boot+%7C+Microservices+🚀;Full+Stack+Developer+💻;Problem+Solver+⚡;Always+Learning+New+Things+🔥)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Nksnaveenks&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<br>
 
-<img src="https://img.shields.io/github/followers/Nksnaveenks?style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/stars/Nksnaveenks?style=for-the-badge&color=yellow"/>
+<img src="https://img.shields.io/github/followers/Nksnaveenks?label=Followers&style=for-the-badge&color=00c2ff"/>
+<img src="https://img.shields.io/github/stars/Nksnaveenks?affiliations=OWNER&style=for-the-badge&color=yellow"/>
+<img src="https://komarev.com/ghpvc/?username=Nksnaveenks&label=Profile%20Views&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nksnaveenks&theme=algolia&no-frame=true&margin-w=12&margin-h=12"/>
 
 </div>
 
@@ -25,10 +34,13 @@
 📚 Strong Interest in DSA & Problem Solving  
 ⚡ Love Building Scalable Applications  
 🔥 Exploring Cloud & System Design  
+🎯 Goal: Become a Skilled Backend Engineer  
 
 <br><br><br>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2f7a5d3f-8cb8-4cb8-b2f1-6e4b58bba8c7.gif" width="100%">
 
 # 🌐 Connect With Me
 
@@ -46,10 +58,11 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2f7a5d3f-8cb8-4cb8-b2f1-6e4b58bba8c7.gif" width="100%">
 
 # 💻 Tech Stack
 
@@ -63,41 +76,36 @@
 
 ### ⚙️ Backend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=spring,mysql,mongodb,nodejs"/>
+<img src="https://skillicons.dev/icons?i=spring,mysql,mongodb,nodejs,hibernate"/>
 
 ---
 
 ### ☁️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,firebase"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,firebase,docker"/>
 
 </div>
 
 ---
 
-# 🚀 What I'm Learning
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2f7a5d3f-8cb8-4cb8-b2f1-6e4b58bba8c7.gif" width="100%">
 
-```yaml
-Backend:
-  - Spring Boot
-  - REST APIs
-  - Microservices Architecture
-  - JWT Authentication
-  - Hibernate & JPA
+# 🧠 Currently Exploring
 
-Database:
-  - MySQL
-  - MongoDB
-
-DevOps & Cloud:
-  - Docker
-  - AWS Basics
-  - CI/CD Basics
+```diff
++ Spring Boot
++ REST APIs
++ Microservices Architecture
++ JWT Authentication
++ Docker
++ AWS Basics
++ CI/CD Basics
++ System Design
 ```
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
@@ -113,6 +121,8 @@ DevOps & Cloud:
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2f7a5d3f-8cb8-4cb8-b2f1-6e4b58bba8c7.gif" width="100%">
 
 # 📊 GitHub Analytics
 
@@ -146,11 +156,11 @@ DevOps & Cloud:
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nksnaveenks&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nksnaveenks&theme=radical&no-frame=true&margin-w=10"/>
 
 </div>
 
@@ -166,6 +176,8 @@ DevOps & Cloud:
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2f7a5d3f-8cb8-4cb8-b2f1-6e4b58bba8c7.gif" width="100%">
+
 # ☕ Java & Spring Boot Journey
 
 <div align="center">
@@ -174,13 +186,15 @@ DevOps & Cloud:
 graph LR
 A[Java Basics] --> B[OOPs]
 B --> C[Collections]
-C --> D[Multithreading]
+C --> D[Exception Handling]
 D --> E[JDBC]
-E --> F[Spring Core]
-F --> G[Spring Boot]
-G --> H[REST APIs]
-H --> I[Microservices]
-I --> J[Docker & Cloud]
+E --> F[Servlets]
+F --> G[Spring Core]
+G --> H[Spring Boot]
+H --> I[REST APIs]
+I --> J[Microservices]
+J --> K[Docker]
+K --> L[AWS]
 ```
 
 </div>
@@ -206,6 +220,8 @@ I --> J[Docker & Cloud]
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2f7a5d3f-8cb8-4cb8-b2f1-6e4b58bba8c7.gif" width="100%">
 
 # ✍️ Random Dev Quote
 
@@ -245,13 +261,14 @@ I --> J[Docker & Cloud]
 ✅ Improve Problem Solving Skills  
 ✅ Learn Docker & AWS  
 ✅ Contribute to Open Source  
+✅ Become Backend Specialist  
 
 ---
 
 <div align="center">
 
-## 💻 "First, solve the problem. Then, write the code."
+## 💻 “Code. Learn. Build. Repeat.”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=12,20,24,25,30"/>
 
 </div>
