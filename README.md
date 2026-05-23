@@ -1,16 +1,19 @@
+
 <div align="center">
 
 <!-- MAIN BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=500&color=0:050816,25:0B1026,50:111C44,75:1A2B6D,100:00C9FF&section=header&text=%20&fontSize=0"/>
 
 <!-- CONTENT OVER BANNER -->
-<div align="center" style="margin-top:-420px; position:relative; z-index:1;">
+<div style="margin-top:-420px; padding-bottom:140px;">
 
 <h1>
-  👋 Hey There, I'm
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=60&lines=👋+Hey+There,+I'm"/>
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=55&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=80&lines=Naveen+K+S"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=55&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&height=90&lines=Naveen+K+S"/>
+
+<br>
 
 <h3>
 ✨ Advanced Associate Software Engineer @ Accenture ✨
@@ -18,7 +21,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2200&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=☕+Java+Full+Stack+Developer;🚀+Spring+Boot+%7C+Microservices;⚡+Backend+Engineering+Enthusiast;💻+Building+Scalable+Applications;🔥+Code.+Create.+Innovate.+Repeat."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&height=70&lines=☕+Java+Full+Stack+Developer;🚀+Spring+Boot+%7C+Microservices;⚡+Backend+Engineering+Enthusiast;💻+Building+Scalable+Applications;🔥+Code.+Create.+Innovate.+Repeat."/>
 
 <br><br>
 
@@ -41,8 +44,6 @@
 <img src="https://komarev.com/ghpvc/?username=Nksnaveenks&style=for-the-badge&label=Profile+Views&labelColor=0A0A0A&color=111827"/>
 
 </div>
-
-<br><br><br><br><br><br><br><br><br>
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/216656965-39a4d4ef-9e72-41d0-b8b2-b7c62b1b1c0d.gif" width="100%">
