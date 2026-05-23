@@ -1,16 +1,20 @@
 <div align="center">
 
-<!-- MAIN ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=420&color=0:050816,25:0B1026,50:111C44,75:1A2B6D,100:00C9FF&section=header&text=%20&fontSize=0"/>
+<!-- MAIN BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=500&color=0:050816,25:0B1026,50:111C44,75:1A2B6D,100:00C9FF&section=header&text=%20&fontSize=0"/>
 
-<!-- CONTENT INSIDE BANNER -->
-<div align="center">
+<!-- CONTENT OVER BANNER -->
+<div align="center" style="margin-top:-420px; position:relative; z-index:1;">
 
-# 👋 Hey There, I'm
+<h1>
+  👋 Hey There, I'm
+</h1>
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=55&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=80&lines=Naveen+K+S"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=55&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=80&lines=Naveen+K+S"/>
 
-### ✨ Advanced Associate Software Engineer @ Accenture ✨
+<h3>
+✨ Advanced Associate Software Engineer @ Accenture ✨
+</h3>
 
 <br>
 
@@ -37,6 +41,8 @@
 <img src="https://komarev.com/ghpvc/?username=Nksnaveenks&style=for-the-badge&label=Profile+Views&labelColor=0A0A0A&color=111827"/>
 
 </div>
+
+<br><br><br><br><br><br><br><br><br>
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/216656965-39a4d4ef-9e72-41d0-b8b2-b7c62b1b1c0d.gif" width="100%">
