@@ -1,50 +1,23 @@
 <div align="center">
 
-<!-- ADVANCED ANIMATED HEADER -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=420&color=0:0F2027,25:203A43,50:2C5364,75:00C9FF,100:92FE9D&section=header&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&text=Naveen%20K%20S&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Associate%20Software%20Engineer%20@%20Accenture%20🚀&descAlignY=56&descSize=23&color=0:0f0c29,50:302b63,100:24243e"/>
 
 <br>
 
-<!-- GLITCH NAME EFFECT -->
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=48&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Hey+There+👋;I'm+Naveen+K+S;Associate+Software+Engineer+@+Accenture"/>
-
-<br>
-
-<!-- ANIMATED ROLE TEXT -->
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=1000&lines=☕+Java+Full+Stack+Developer;🚀+Spring+Boot+%7C+Microservices;⚡+Backend+Engineering+Enthusiast;🔥+Building+Scalable+Applications;☁️+Exploring+Docker+%26+AWS"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Java+Developer+☕;Spring+Boot+%7C+Microservices+🚀;Backend+Engineering+Enthusiast+⚡;Problem+Solver+💻;Building+Scalable+Applications+🔥"/>
 
 <br><br>
 
-<!-- COOL BADGES -->
-
-<img src="https://img.shields.io/badge/Java-Developer-FF6B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microservices-FF00FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend_Engineer-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud-Learner-00C9FF?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-Engineer-blueviolet?style=for-the-badge"/>
 
 <br><br>
 
-<!-- SOCIAL + STATS -->
-
-<img src="https://img.shields.io/github/followers/Nksnaveenks?style=for-the-badge&color=00F7FF&labelColor=111827"/>
-<img src="https://img.shields.io/github/stars/Nksnaveenks?style=for-the-badge&color=FFD700&labelColor=111827"/>
+<img src="https://img.shields.io/github/followers/Nksnaveenks?style=for-the-badge&color=00F7FF"/>
+<img src="https://img.shields.io/github/stars/Nksnaveenks?style=for-the-badge&color=yellow"/>
 <img src="https://komarev.com/ghpvc/?username=Nksnaveenks&style=for-the-badge&color=blueviolet"/>
-
-<br><br>
-
-<!-- ANIMATED LINE -->
-
-<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:FF00FF,100:00FF99&height=3&section=header"/>
-
-<br>
-
-<h3>
-✨ Passionate About Backend Development • APIs • Cloud • Scalable Systems ✨
-</h3>
 
 </div>
 
