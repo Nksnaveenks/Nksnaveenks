@@ -1,30 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=250&section=header&text=Naveen%20K%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Software%20Engineer%20@%20Accenture&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=380&text=Naveen%20K%20S&fontSize=70&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Associate%20Software%20Engineer%20%40%20Accenture&descAlignY=55&descSize=24&color=gradient&customColorList=6,11,20,24,30"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Naveen+K+S;Java+Developer+%7C+Spring+Boot+Developer;Microservices+Enthusiast;Full+Stack+Developer;Problem+Solver+%7C+DSA+Learner;Always+Building+and+Learning+🚀)](https://git.io/typing-svg)
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Nksnaveenks&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Java+Full+Stack+Developer+☕;Spring+Boot+%7C+Microservices+🚀;Backend+Engineering+Enthusiast+⚡;Always+Learning+New+Technologies+🔥"/>
 
-<img src="https://img.shields.io/github/followers/Nksnaveenks?style=for-the-badge&color=blue"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-Developer-red?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-Boot-success?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-Architecture-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Accenture-Employee-purple?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/Nksnaveenks?style=for-the-badge&color=00c2ff"/>
 <img src="https://img.shields.io/github/stars/Nksnaveenks?style=for-the-badge&color=yellow"/>
+<img src="https://komarev.com/ghpvc/?username=Nksnaveenks&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
+<div align="center">
+
+# 🌌 Welcome To My Digital Space 🌌
+
+<img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-7401-4e30-8c8e-6999d8e3c31f.gif" width="100%">
+
+</div>
+
 # 💫 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🎓 Computer Science Graduate  
 💼 Associate Software Engineer at Accenture  
-☕ Java Full Stack Developer  
-🌱 Currently Learning Spring Boot & Microservices  
-🚀 Passionate About Backend Development  
-📚 Strong Interest in DSA & Problem Solving  
-⚡ Love Building Scalable Applications  
-🔥 Exploring Cloud & System Design  
+☕ Passionate Java Developer  
+🚀 Learning Spring Boot & Microservices  
+📚 DSA & Problem Solving Enthusiast  
+⚡ Backend Engineering Lover  
+🔥 Exploring Cloud, Docker & AWS  
+🎯 Goal: Become Enterprise Java Architect  
 
 <br><br><br>
 
@@ -34,27 +52,25 @@
 
 <div align="center">
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/naveenk-s/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:naveen@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:nks990217@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Nksnaveenks">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💻 Tech Stack
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2f7a5d3f-8cb8-4cb8-b2f1-6e4b58bba8c7.gif" width="100%">
+
+# 💻 Tech Arsenal
 
 <div align="center">
 
@@ -62,60 +78,55 @@
 
 <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,html,css"/>
 
----
+<br><br>
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Frameworks & Databases
 
-<img src="https://skillicons.dev/icons?i=spring,mysql,mongodb,nodejs"/>
+<img src="https://skillicons.dev/icons?i=spring,mysql,mongodb,hibernate,nodejs"/>
 
----
+<br><br>
 
 ### ☁️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,firebase"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,docker,firebase"/>
 
 </div>
 
 ---
 
-# 🚀 What I'm Learning
-
-```yaml
-Backend:
-  - Spring Boot
-  - REST APIs
-  - Microservices Architecture
-  - JWT Authentication
-  - Hibernate & JPA
-
-Database:
-  - MySQL
-  - MongoDB
-
-DevOps & Cloud:
-  - Docker
-  - AWS Basics
-  - CI/CD Basics
-```
-
----
-
-# 📂 Featured Projects
+# 🧠 Currently Learning
 
 <div align="center">
 
-| 🚀 Project | 💡 Description | ⚡ Tech Stack |
-|---|---|---|
-| Employee Management System | CRUD based employee system | Java, Spring Boot, MySQL |
-| E-Commerce Backend API | REST APIs for shopping app | Spring Boot, JWT |
-| Student Management System | Full CRUD operations | Java, MySQL |
-| Portfolio Website | Personal responsive portfolio | HTML, CSS, JS |
-| Banking Application | Secure banking operations | Java |
-| Microservices Learning Project | API Gateway & Eureka setup | Spring Cloud |
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CI/CD-success?style=for-the-badge"/>
 
 </div>
 
 ---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 💡 Description | ⚡ Tech |
+|---|---|---|
+| Employee Management System | Full CRUD employee management | Spring Boot, MySQL |
+| E-Commerce Backend API | REST APIs with JWT security | Spring Boot |
+| Student Management System | Student database management | Java, MySQL |
+| Banking Application | Banking operations system | Java |
+| Portfolio Website | Personal developer portfolio | HTML, CSS, JS |
+| Microservices Project | API Gateway & Eureka setup | Spring Cloud |
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/216656971-9cfdb9ba-4d2d-4f5d-8f0e-54f9f8fcd0e5.gif" width="100%">
 
 # 📊 GitHub Analytics
 
@@ -127,9 +138,7 @@ DevOps & Cloud:
 
 </div>
 
----
-
-# 🔥 GitHub Streak Stats
+<br>
 
 <div align="center">
 
@@ -143,17 +152,17 @@ DevOps & Cloud:
 
 <div align="center">
 
-[![Naveen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nksnaveenks&theme=tokyo-night)](https://github.com/Nksnaveenks)
+[![Naveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nksnaveenks&theme=tokyo-night)](https://github.com/Nksnaveenks)
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nksnaveenks&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nksnaveenks&theme=algolia&no-frame=true&margin-w=10"/>
 
 </div>
 
@@ -169,7 +178,7 @@ DevOps & Cloud:
 
 ---
 
-# ☕ Java & Spring Boot Journey
+# ☕ Java Learning Roadmap
 
 <div align="center">
 
@@ -177,13 +186,15 @@ DevOps & Cloud:
 graph LR
 A[Java Basics] --> B[OOPs]
 B --> C[Collections]
-C --> D[Multithreading]
+C --> D[Exception Handling]
 D --> E[JDBC]
-E --> F[Spring Core]
-F --> G[Spring Boot]
-G --> H[REST APIs]
-H --> I[Microservices]
-I --> J[Docker & Cloud]
+E --> F[Servlets]
+F --> G[Spring Core]
+G --> H[Spring Boot]
+H --> I[REST APIs]
+I --> J[Microservices]
+J --> K[Docker]
+K --> L[AWS]
 ```
 
 </div>
@@ -195,22 +206,22 @@ I --> J[Docker & Cloud]
 <div align="center">
 
 <a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 <a href="https://hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/>
 </a>
 
 <a href="https://codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-black?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# ✍️ Random Dev Quote
+# ✨ Developer Quote
 
 <div align="center">
 
@@ -220,41 +231,22 @@ I --> J[Docker & Cloud]
 
 ---
 
-# 😂 Random Developer Joke
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api"/>
-
-</div>
-
----
-
-# 🎵 Spotify Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)
-
-</div>
-
----
-
-# 🚀 Current Goals - 2026
+# 🚀 Goals For 2026
 
 ✅ Master Spring Boot  
 ✅ Learn Microservices Architecture  
-✅ Build Full Stack Projects  
-✅ Improve Problem Solving Skills  
+✅ Build Enterprise Level Applications  
 ✅ Learn Docker & AWS  
-✅ Contribute to Open Source  
+✅ Improve DSA Skills  
+✅ Become Backend Specialist  
+✅ Contribute To Open Source  
 
 ---
 
 <div align="center">
 
-## 💻 "First, solve the problem. Then, write the code."
+# 💻 “Code. Create. Innovate. Repeat.”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
 
 </div>
