@@ -1,13 +1,14 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=420&color=0:050816,20:0B1026,40:111C44,60:1A2B6D,80:00C9FF,100:92FE9D&text=%20&fontSize=0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,25:0B1026,50:111C44,75:1A2B6D,100:00C9FF&section=header"/>
 
-<h1 align="center">
-  Hey There 👋
+<h1 align="center" style="margin-top:-180px;">
+  👋 Hey There, I'm
 </h1>
 
 <h1 align="center">
-  I'm <span style="color:#00F7FF;">Naveen K S</span>
+  <span style="color:#00F7FF;">Naveen K S</span>
 </h1>
 
 <h3 align="center">
@@ -16,7 +17,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=☕+Java+Full+Stack+Developer;🚀+Spring+Boot+%7C+Microservices;⚡+Backend+Engineering+Enthusiast;💻+Building+Scalable+Applications;🔥+Code.+Create.+Innovate.+Repeat."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=☕+Java+Full+Stack+Developer;🚀+Spring+Boot+%7C+Microservices;⚡+Backend+Engineering+Enthusiast;💻+Building+Scalable+Applications;🔥+Code.+Create.+Innovate.+Repeat."/>
 
 <br><br>
 
