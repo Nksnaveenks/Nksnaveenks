@@ -1,23 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&text=Naveen%20K%20S&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Associate%20Software%20Engineer%20@%20Accenture%20🚀&descAlignY=56&descSize=23&color=0:0f0c29,50:302b63,100:24243e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=420&color=gradient&customColorList=12,14,18,20,24,30&text=NAVEEN%20K%20S&fontSize=82&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Associate%20Software%20Engineer%20%40%20Accenture%20🚀&descAlignY=55&descSize=25&stroke=00F7FF&strokeWidth=2"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Java+Developer+☕;Spring+Boot+%7C+Microservices+🚀;Backend+Engineering+Enthusiast+⚡;Problem+Solver+💻;Building+Scalable+Applications+🔥"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&height=80&lines=Java+Full+Stack+Developer+☕;Spring+Boot+%7C+Microservices+🚀;Backend+Engineering+Enthusiast+⚡;Building+Scalable+Applications+🔥;Code.+Build.+Innovate.+Repeat.+💻"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java_Developer-FF6B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microservices-FF00FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-Engineer-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend_Engineer-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_Source-Contributor-blueviolet?style=for-the-badge"/>
 
 <br><br>
 
 <img src="https://img.shields.io/github/followers/Nksnaveenks?style=for-the-badge&color=00F7FF"/>
 <img src="https://img.shields.io/github/stars/Nksnaveenks?style=for-the-badge&color=yellow"/>
 <img src="https://komarev.com/ghpvc/?username=Nksnaveenks&style=for-the-badge&color=blueviolet"/>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216656965-39a4d4ef-9e72-41d0-b8b2-b7c62b1b1c0d.gif" width="100%">
 
 </div>
 
