@@ -1,28 +1,62 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&text=Naveen%20K%20S&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Associate%20Software%20Engineer%20@%20Accenture%20🚀&descAlignY=56&descSize=23&color=0:0f0c29,50:302b63,100:24243e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=420&text=%20NAVEEN%20K%20S%20&fontSize=72&fontColor=ffffff&stroke=00F7FF&strokeWidth=2&animation=fadeIn&fontAlignY=32&desc=Associate%20Software%20Engineer%20%40%20Accenture%20%E2%9A%A1&descAlignY=52&descSize=24&colorA=050816&colorB=0B1026"/>
 
 <br>
 
-<!-- HI THERE SECTION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2500&pause=1200&color=FF61F6&center=true&vCenter=true&width=700&lines=👋+Hii+There!+I+am+Naveen+K+S;🚀+Welcome+to+My+GitHub+Profile"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2500&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=%F0%9F%91%8B+HELLO+WORLD!;%F0%9F%9A%80+WELCOME+TO+MY+DIGITAL+UNIVERSE"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Java+Developer+☕;Spring+Boot+%7C+Microservices+🚀;Backend+Engineering+Enthusiast+⚡;Problem+Solver+💻;Building+Scalable+Applications+🔥"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microservices-FF00FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-Engineer-blueviolet?style=for-the-badge"/>
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/JAVA-DEVELOPER-FF6B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/SPRING_BOOT-ARCHITECT-00C853?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/MICROSERVICES-BACKEND_ENGINEER-8A2BE2?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nksnaveenks&theme=github_dark" width="100%"/>
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/Nksnaveenks?style=for-the-badge&color=00F7FF"/>
-<img src="https://img.shields.io/github/stars/Nksnaveenks?style=for-the-badge&color=yellow"/>
-<img src="https://komarev.com/ghpvc/?username=Nksnaveenks&style=for-the-badge&color=blueviolet"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=1000&color=FF61F6&center=true&vCenter=true&width=1000&lines=%E2%9C%A8+Building+Scalable+Applications;%F0%9F%94%A5+Backend+Engineering+Enthusiast;%F0%9F%9A%80+Passionate+Java+Developer;%E2%9A%A1+Always+Learning+New+Technologies"/>
+
+<br><br>
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/Nksnaveenks?style=for-the-badge&label=Followers&color=00F7FF"/>
+
+<img src="https://img.shields.io/github/stars/Nksnaveenks?style=for-the-badge&label=Stars&color=FFD700"/>
+
+<img src="https://komarev.com/ghpvc/?username=Nksnaveenks&style=for-the-badge&color=8A2BE2"/>
+
+</p>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:8A2BE2,100:FF61F6"/>
 
 </div>
 
